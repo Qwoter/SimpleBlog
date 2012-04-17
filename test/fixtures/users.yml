@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nickname: MyString
+  age: 2012-04-15 20:42:26
+  about: MyString
+  signature: MyString
+  password: MyString
+  role: MyString
+
+two:
+  nickname: MyString
+  age: 2012-04-15 20:42:26
+  about: MyString
+  signature: MyString
+  password: MyString
+  role: MyString
