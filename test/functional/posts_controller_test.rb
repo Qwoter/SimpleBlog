@@ -14,6 +14,7 @@ class PostsControllerTest < ActionController::TestCase
   test "should get new" do
     get :new
     assert_response :success
+    assert_not_nil @post
   end
 
   test "should create post" do
